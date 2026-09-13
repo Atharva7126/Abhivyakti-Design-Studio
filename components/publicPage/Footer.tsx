@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col gap-10 border-t border-brand-primary/40 pt-10 md:flex-row md:items-end md:justify-between">
           <div className="space-y-4 text-brand-text">
             <h2 className="text-4xl font-medium tracking-tight">
-              Ar. Aboli Raut
+              Ar. Aboli Neeta Milind Raut
             </h2>
 
             <p className="max-w-sm text-sm leading-6">

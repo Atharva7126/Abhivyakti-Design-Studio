@@ -39,7 +39,7 @@ const MobileNavbar = () => {
           onClick={closeMenu}
           className="text-lg font-semibold tracking-tight text-brand-secondary"
         >
-          Ar. Aboli Raut
+          Ar. Aboli Neeta Milind Raut
         </Link>
 
         <HamburgerMenu isOpen={isOpen} setIsOpen={setIsOpen} />

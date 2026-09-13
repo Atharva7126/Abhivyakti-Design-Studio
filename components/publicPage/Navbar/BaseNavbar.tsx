@@ -7,7 +7,7 @@ const BaseNavbar = () => {
         href="/"
         className="text-lg font-semibold tracking-tight text-slate-900 transition-colors"
       >
-        Ar. Aboli Raut
+        Ar. Aboli Neeta Milind Raut
       </Link>
       <div className="flex items-center gap-6 text-sm font-medium text-slate-600">
         <Link href="/" className="transition-colors hover:text-amber-700">
